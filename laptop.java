@@ -27,7 +27,7 @@ public class laptop {
     public void setColor(String color) {
         this.color = color;
     }
-
+/// print method
     public String printColor(String newColor) {
 
         return newColor;
